@@ -1,0 +1,27 @@
+{
+  "name": "garymuirdontpatronizeme",
+  "version": "1.0.0",
+  "description": "Website stores all lectures by Professor Gary Muir stripping them of their passwords",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilgameshskytrooper/garymuirdontpatronizeme.git"
+  },
+  "keywords": [
+    "ExpressNode",
+    "JSON"
+  ],
+  "author": "Andrew Lee (gilgameshskytrooper)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilgameshskytrooper/garymuirdontpatronizemeissues"
+  },
+  "homepage": "https://garymuirdontpatronizeme.herokuapp.com/",
+  "dependencies": {
+    "express": "latest"
+  }
+}
