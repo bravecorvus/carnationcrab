@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Website stores all lectures by Professor Gary Muir stripping them of their passwords",
   "main": "server.js",
+    "engines": {
+    "node": "8.1.4"
+  },
   "scripts": {
     "test": "node server.js",
     "start": "node server.js"
